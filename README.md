@@ -1,27 +1,37 @@
 # Bases
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.0.
+Introducción a Angular
 
-## Development server
+- Crear proyectos de Angular
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+- Explicar cada archivo y directorio de un proyecto
 
-## Code scaffolding
+- Componentes
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Módulos
 
-## Build
+- One way data binding
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+- Uso del AngularCLI - Angular Command Line Interface
 
-## Running unit tests
+- Directivas creadas por Angular
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- ngIf y ngIf-else
 
-## Running end-to-end tests
+Expandiendo nuestras bases
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+- Profundizar un poco más en los módulos
 
-## Further help
+- FormsModule
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- ngModel
+
+- @Inputs
+
+- @outputs
+
+- Servicios
+
+- Métodos en servicios
+
+- Depuraciones
